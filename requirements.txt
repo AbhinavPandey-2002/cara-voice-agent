@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+anthropic>=0.34.0
+chromadb>=0.5.3
+sentence-transformers==3.0.1
+rank-bm25==0.2.2
+numpy>=1.24.0
+scikit-learn>=1.5.2
+python-dotenv==1.0.1
+python-multipart==0.0.9

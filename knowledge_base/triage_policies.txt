@@ -1,0 +1,113 @@
+EMERGENCY - CALL 999 IMMEDIATELY:
+Chest pain or tightness especially with breathlessness, sweating, or pain spreading to arm or jaw. This is a potential heart attack. Do not book appointment. Call 999 immediately. Do not drive to hospital.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Stroke symptoms: face drooping on one side, arm weakness or numbness, slurred or confused speech, sudden severe headache, sudden loss of vision. Use FAST test: Face Arms Speech Time to call 999. Do not book appointment.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Difficulty breathing or shortness of breath that has come on suddenly or is getting rapidly worse. Do not book appointment. Call 999 immediately.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Severe allergic reaction or anaphylaxis: swelling of face lips or throat, difficulty swallowing or breathing, severe rash across body, dizziness or collapse after eating or insect sting. Call 999 immediately and use EpiPen if available.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Loss of consciousness or patient is unresponsive. Call 999 immediately. Do not book appointment.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Severe uncontrolled bleeding not stopping with pressure after 10 minutes. Call 999 immediately.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Suspected overdose or poisoning. Call 999 immediately. Do not book appointment.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Severe head injury with loss of consciousness, confusion, vomiting, or seizure. Call 999 immediately.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Symptoms of meningitis: severe headache, stiff neck, sensitivity to light, rash that does not fade when pressed with a glass. Call 999 immediately if rash present.
+
+EMERGENCY - CALL 999 IMMEDIATELY:
+Angina attack or suspected angina: chest tightness, pressure, squeezing or pain in chest especially spreading to arm, jaw or neck. Angina is a cardiac condition. If symptoms are new, severe, or not relieved by GTN spray call 999 immediately. Do not book appointment.
+
+URGENT SAME DAY APPOINTMENT - CALL AT 8AM:
+High temperature in baby under 3 months old or temperature above 38 degrees in child under 6 months. Same day urgent GP appointment required. Call at 8am. If surgery closed call 111.
+
+URGENT SAME DAY APPOINTMENT - CALL AT 8AM:
+Severe abdominal pain that is constant and not relieved by painkillers. Same day GP appointment required. If out of hours call 111.
+
+URGENT SAME DAY APPOINTMENT - CALL AT 8AM:
+Mental health crisis: patient expressing thoughts of self harm or suicide. Same day urgent appointment. If immediate risk call 999. Samaritans available 24 hours on 116 123.
+
+URGENT SAME DAY APPOINTMENT - CALL AT 8AM:
+Sudden severe eye pain or sudden loss of vision. Same day urgent GP appointment. If out of hours go to A&E.
+
+URGENT SAME DAY APPOINTMENT - CALL AT 8AM:
+Diabetic patient with very high or very low blood sugar not responding to treatment at home. Same day urgent appointment required.
+
+URGENT SAME DAY APPOINTMENT - CALL AT 8AM:
+Child with high fever above 39 degrees not responding to paracetamol or ibuprofen. Same day urgent GP appointment. Book Dr Oliver Bennett who specialises in children.
+
+ROUTINE GP APPOINTMENT - WITHIN 1 TO 2 WEEKS:
+Persistent cough lasting more than 3 weeks. Routine GP appointment. Not urgent unless coughing blood.
+
+ROUTINE GP APPOINTMENT - WITHIN 1 TO 2 WEEKS:
+New skin rash or mole that has changed in size shape or colour. Routine GP appointment. Dr James Whitfield specialises in skin conditions.
+
+ROUTINE GP APPOINTMENT - WITHIN 1 TO 2 WEEKS:
+Persistent headaches lasting more than a few days. Routine GP appointment. Emergency only if sudden severe worst headache of life.
+
+ROUTINE GP APPOINTMENT - WITHIN 1 TO 2 WEEKS:
+Unexplained weight loss or fatigue lasting more than 2 weeks. Routine GP appointment required.
+
+ROUTINE GP APPOINTMENT - WITHIN 1 TO 2 WEEKS:
+Ear pain or hearing loss. Routine GP appointment. Nurse Williams can perform ear syringing if wax buildup suspected.
+
+ROUTINE GP APPOINTMENT - WITHIN 1 TO 2 WEEKS:
+Urinary symptoms: burning on urination, frequent urination, blood in urine. Routine GP appointment. If severe back or side pain may indicate kidney infection needing same day appointment.
+
+ROUTINE GP APPOINTMENT - WITHIN 1 TO 2 WEEKS:
+Anxiety or depression symptoms persisting more than 2 weeks. Routine GP appointment. Dr James Whitfield specialises in mental health.
+
+ROUTINE GP APPOINTMENT - WITHIN 1 TO 2 WEEKS:
+Asthma or breathing difficulties that are not emergency but worsening. Routine GP appointment. Dr Oliver Bennett specialises in respiratory conditions and asthma.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+Blood pressure check or hypertension monitoring. Book with Nurse Sarah Williams. No GP needed unless readings are dangerously high.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+Vaccination or immunisation including flu jab, travel vaccinations, childhood vaccinations, COVID booster. Book with Nurse Sarah Williams.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+Wound dressing or dressing change. Book with Nurse Sarah Williams. No GP appointment needed.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+Blood test or phlebotomy. Book with Nurse Sarah Williams. GP referral may be needed first for some blood tests.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+Smear test or cervical screening. Book with Nurse Sarah Williams.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+NHS health check for patients aged 40 to 74. Book with Nurse Sarah Williams.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+Diabetes monitoring or HbA1c check. Book with Nurse Sarah Williams. GP appointment needed only if medication change required.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+ECG heart tracing. Book with Nurse Sarah Williams.
+
+NURSE APPOINTMENT APPROPRIATE - BOOK WITH NURSE SARAH WILLIAMS:
+Ear syringing for wax removal. Book with Nurse Sarah Williams.
+
+SELF CARE - NO APPOINTMENT NEEDED:
+Common cold or mild flu symptoms in otherwise healthy adult. Rest, fluids, paracetamol or ibuprofen. Visit pharmacy for advice. GP appointment not required.
+
+SELF CARE - NO APPOINTMENT NEEDED:
+Mild sore throat without difficulty swallowing or breathing. Salt water gargle, throat lozenges, paracetamol. Visit pharmacy. GP not needed unless persists beyond 1 week.
+
+SELF CARE - NO APPOINTMENT NEEDED:
+Minor cuts or grazes not requiring stitches. Clean wound, apply plaster. Pharmacy can advise on wound care.
+
+SELF CARE - NO APPOINTMENT NEEDED:
+Mild headache or tension headache. Paracetamol or ibuprofen, hydration, rest. Pharmacy can advise. GP not needed unless persistent or severe.
+
+SELF CARE - NO APPOINTMENT NEEDED:
+Mild diarrhoea or vomiting lasting less than 48 hours in healthy adult. Stay hydrated. Do not come to surgery to avoid spreading infection. Call 111 if symptoms worsen or lasting more than 48 hours.

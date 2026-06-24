@@ -1,0 +1,237 @@
+{
+    "weekly_schedule": [
+        {
+            "day": "Monday",
+            "clinician": "Dr. Margaret Collins",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Monday",
+            "clinician": "Dr. James Whitfield",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Monday",
+            "clinician": "Dr. Priya Patel",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Monday",
+            "clinician": "Dr. Oliver Bennett",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Monday",
+            "clinician": "Nurse Sarah Williams",
+            "role": "Practice Nurse",
+            "morning_slots": ["8:00am", "8:20am", "8:40am", "9:00am", "9:20am", "9:40am", "10:00am", "10:20am", "10:40am", "11:00am", "11:20am", "11:40am"],
+            "afternoon_slots": ["1:00pm", "1:20pm", "1:40pm", "2:00pm", "2:20pm", "2:40pm", "3:00pm", "3:20pm", "3:40pm", "4:00pm", "4:20pm", "4:40pm"]
+        },
+        {
+            "day": "Tuesday",
+            "clinician": "Dr. Margaret Collins",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Tuesday",
+            "clinician": "Dr. James Whitfield",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Tuesday",
+            "clinician": "Dr. Priya Patel",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Tuesday",
+            "clinician": "Dr. Oliver Bennett",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Tuesday",
+            "clinician": "Nurse Sarah Williams",
+            "role": "Practice Nurse",
+            "morning_slots": ["8:00am", "8:20am", "8:40am", "9:00am", "9:20am", "9:40am", "10:00am", "10:20am", "10:40am", "11:00am", "11:20am", "11:40am"],
+            "afternoon_slots": ["1:00pm", "1:20pm", "1:40pm", "2:00pm", "2:20pm", "2:40pm", "3:00pm", "3:20pm", "3:40pm", "4:00pm", "4:20pm", "4:40pm"]
+        },
+        {
+            "day": "Wednesday",
+            "clinician": "Dr. Margaret Collins",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Wednesday",
+            "clinician": "Dr. James Whitfield",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Wednesday",
+            "clinician": "Dr. Priya Patel",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Wednesday",
+            "clinician": "Dr. Oliver Bennett",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Wednesday",
+            "clinician": "Nurse Sarah Williams",
+            "role": "Practice Nurse",
+            "morning_slots": ["8:00am", "8:20am", "8:40am", "9:00am", "9:20am", "9:40am", "10:00am", "10:20am", "10:40am", "11:00am", "11:20am", "11:40am"],
+            "afternoon_slots": ["1:00pm", "1:20pm", "1:40pm", "2:00pm", "2:20pm", "2:40pm", "3:00pm", "3:20pm", "3:40pm", "4:00pm", "4:20pm", "4:40pm"]
+        },
+        {
+            "day": "Thursday",
+            "clinician": "Dr. Margaret Collins",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Thursday",
+            "clinician": "Dr. James Whitfield",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Thursday",
+            "clinician": "Dr. Priya Patel",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Thursday",
+            "clinician": "Dr. Oliver Bennett",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Thursday",
+            "clinician": "Nurse Sarah Williams",
+            "role": "Practice Nurse",
+            "morning_slots": ["8:00am", "8:20am", "8:40am", "9:00am", "9:20am", "9:40am", "10:00am", "10:20am", "10:40am", "11:00am", "11:20am", "11:40am"],
+            "afternoon_slots": ["1:00pm", "1:20pm", "1:40pm", "2:00pm", "2:20pm", "2:40pm", "3:00pm", "3:20pm", "3:40pm", "4:00pm", "4:20pm", "4:40pm"]
+        },
+        {
+            "day": "Friday",
+            "clinician": "Dr. Margaret Collins",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Friday",
+            "clinician": "Dr. James Whitfield",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Friday",
+            "clinician": "Dr. Priya Patel",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Friday",
+            "clinician": "Dr. Oliver Bennett",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": ["2:00pm", "2:30pm", "3:00pm", "3:30pm", "4:00pm", "4:30pm"]
+        },
+        {
+            "day": "Friday",
+            "clinician": "Nurse Sarah Williams",
+            "role": "Practice Nurse",
+            "morning_slots": ["8:00am", "8:20am", "8:40am", "9:00am", "9:20am", "9:40am", "10:00am", "10:20am", "10:40am", "11:00am", "11:20am", "11:40am"],
+            "afternoon_slots": ["1:00pm", "1:20pm", "1:40pm", "2:00pm", "2:20pm", "2:40pm", "3:00pm", "3:20pm", "3:40pm", "4:00pm", "4:20pm", "4:40pm"]
+        },
+        {
+            "day": "Saturday",
+            "clinician": "Dr. Margaret Collins",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": []
+        },
+        {
+            "day": "Saturday",
+            "clinician": "Dr. James Whitfield",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": []
+        },
+        {
+            "day": "Saturday",
+            "clinician": "Dr. Priya Patel",
+            "role": "GP",
+            "morning_slots": ["9:00am", "9:30am", "10:00am", "10:30am", "11:00am", "11:30am"],
+            "afternoon_slots": []
+        },
+        {
+            "day": "Saturday",
+            "clinician": "Dr. Oliver Bennett",
+            "role": "GP",
+            "morning_slots": ["8:30am", "9:00am", "9:30am", "10:00am", "10:30am", "11:00am"],
+            "afternoon_slots": []
+        },
+        {
+            "day": "Saturday",
+            "clinician": "Nurse Sarah Williams",
+            "role": "Practice Nurse",
+            "morning_slots": ["8:00am", "8:20am", "8:40am", "9:00am", "9:20am", "9:40am", "10:00am", "10:20am", "10:40am", "11:00am", "11:20am"],
+            "afternoon_slots": []
+        },
+        {
+            "day": "Sunday",
+            "clinician": "All clinicians",
+            "role": "N/A",
+            "morning_slots": [],
+            "afternoon_slots": [],
+            "notes": "Surgery closed Sunday. For urgent advice call 111. For emergencies call 999."
+        }
+    ],
+    "leaves": [
+        {
+            "clinician": "Dr. Priya Patel",
+            "date": "15th June 2025",
+            "day": "Sunday",
+            "note": "Surgery closed on Sunday anyway. No impact on availability."
+        },
+        {
+            "clinician": "Dr. James Whitfield",
+            "date": "18th June 2025",
+            "day": "Wednesday",
+            "note": "Dr Whitfield fully absent. Patients needing mental health support offered Dr Collins or Dr Bennett. Skin condition patients offered Dr Collins."
+        }
+    ],
+    "instructions_for_cara": "When a patient asks about availability on a specific date, first determine what day of the week that date falls on. Then retrieve the weekly schedule for that day. Then check the leaves list to see if any clinician is absent on that specific date. If a clinician is on leave, mark them as unavailable for that date only. The weekly schedule repeats every week indefinitely. Sunday is always closed. Saturday is morning only and closes at 12pm."
+}

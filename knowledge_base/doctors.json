@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Dr. Margaret Collins",
+        "role": "GP",
+        "gender": "female",
+        "specialisms": [
+            "diabetes",
+            "elderly care",
+            "chronic disease management",
+            "hypertension"
+        ],
+        "available_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "not_available_days": [],
+        "languages": ["English"],
+        "notes": "Senior partner. Particularly experienced with elderly patients and long term conditions. Preferred GP for diabetic patients."
+    },
+    {
+        "name": "Dr. James Whitfield",
+        "role": "GP",
+        "gender": "male",
+        "specialisms": [
+            "mental health",
+            "skin conditions",
+            "dermatology",
+            "anxiety and depression"
+        ],
+        "available_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "not_available_days": ["18th June 2025"],
+        "languages": ["English"],
+        "notes": "Experienced in mental health and skin conditions. Absent 18th June 2025. Patients needing urgent mental health support on that day should be offered Dr Collins or Dr Bennett."
+    },
+    {
+        "name": "Dr. Priya Patel",
+        "role": "GP",
+        "gender": "female",
+        "specialisms": [
+            "womens health",
+            "family planning",
+            "hypertension",
+            "maternity care",
+            "cervical screening"
+        ],
+        "available_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "not_available_days": ["15th June 2025"],
+        "languages": ["English", "Gujarati", "Hindi"],
+        "notes": "Specialises in womens health and family planning. Absent 15th June 2025. Only female GP — patients who prefer female doctor should be offered Dr Collins as alternative when Dr Patel unavailable. Speaks Gujarati and Hindi."
+    },
+    {
+        "name": "Dr. Oliver Bennett",
+        "role": "GP",
+        "gender": "male",
+        "specialisms": [
+            "children and paediatrics",
+            "respiratory conditions",
+            "asthma",
+            "childhood vaccinations",
+            "COPD"
+        ],
+        "available_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "not_available_days": [],
+        "languages": ["English"],
+        "notes": "Lead GP for children and respiratory conditions. Best choice for childhood illnesses, asthma reviews, and COPD management. Available all week."
+    },
+    {
+        "name": "Nurse Sarah Williams",
+        "role": "Practice Nurse",
+        "gender": "female",
+        "specialisms": [
+            "blood pressure checks",
+            "vaccinations and immunisations",
+            "wound dressing and dressing changes",
+            "blood tests and phlebotomy",
+            "NHS health checks",
+            "diabetes monitoring",
+            "smear tests",
+            "travel vaccinations",
+            "ECG",
+            "ear syringing"
+        ],
+        "available_days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "not_available_days": [],
+        "languages": ["English"],
+        "notes": "Practice nurse handling all routine clinical procedures. Nurse appointments are longer and more available than GP slots. Always offer nurse appointment when patient need does not require GP diagnosis. Blood pressure checks, vaccinations, dressings, blood tests, smear tests, NHS health checks, ear syringing and ECGs should always be booked with Nurse Williams not a GP."
+    }
+]

@@ -1,0 +1,15 @@
+venv/
+rag/chroma_db/
+bookings/bookings.db
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+debug_retrieval.py
+check_bookings.py
+clear_bookings.py
+*.db
+*.log
+.vscode/
+.idea/
