@@ -678,14 +678,6 @@ async def root():
     return FileResponse("static/index.html")
 
 
-# app.mount("/static", StaticFiles(directory=os.path.join(BASE_DIR, "static")), name="static")
-
-# @app.get("/")
-# async def root():
-#     return FileResponse(os.path.join(BASE_DIR, "static", "index.html"))
-
-
-
 if __name__ == "__main__":
     import uvicorn
     port = int(os.environ.get("PORT", 8000))
