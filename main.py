@@ -24,6 +24,7 @@ from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from dotenv import load_dotenv
 from datetime import datetime, timedelta
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # RAG pipeline imports
 from rag.intent_classifier import classify_intent
@@ -670,11 +671,20 @@ async def end_session(session_id: str):
 async def health():
     return {"status": "CARA is running"}
 
-app.mount("/static", StaticFiles(directory="static"), name="static")
+# app.mount("/static", StaticFiles(directory="static"), name="static")
+
+# @app.get("/")
+# async def root():
+#     return FileResponse("static/index.html")
+
+
+app.mount("/static", StaticFiles(directory=os.path.join(BASE_DIR, "static")), name="static")
 
 @app.get("/")
 async def root():
-    return FileResponse("static/index.html")
+    return FileResponse(os.path.join(BASE_DIR, "static", "index.html"))
+
+
 
 if __name__ == "__main__":
     import uvicorn
