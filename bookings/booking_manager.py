@@ -15,7 +15,7 @@ from datetime import datetime
 # DATABASE PATH
 # ─────────────────────────────────────────
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB_PATH = os.path.join(BASE_DIR, "bookings", "bookings.db")
+DB_PATH = os.environ.get("DB_PATH", os.path.join(BASE_DIR, "bookings", "bookings.db"))
  
 # ─────────────────────────────────────────
 # STATES
